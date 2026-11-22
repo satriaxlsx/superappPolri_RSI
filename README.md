@@ -4,7 +4,7 @@ Below is the hierarchy of the work:
 
 ## Work Structure
 
-'''
+```
 superapp-polri-multimodal/
 ├── docs/
 │   ├── srs/
@@ -22,7 +22,7 @@ superapp-polri-multimodal/
 ├── internal/
 │   └── repository/
 └── README.md
-'''
+```
 
 ---
 
