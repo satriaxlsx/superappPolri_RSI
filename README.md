@@ -13,10 +13,8 @@ superapp-polri-multimodal/
 │       └── erd-notes.md
 ├── db/
 │   ├── migrations/
-│   │   ├── 000001_init_users_documents.up.sql
-│   │   ├── 000001_init_users_documents.down.sql
-│   │   ├── 000002_create_multimodal_reports.up.sql
-│   │   └── 000002_create_multimodal_reports.down.sql
+│   │   ├── 0001_init.sql
+│   │   ├── 0003_bulk_sample_data.sql
 │   └── queries/
 │       └── reports.sql
 ├── internal/
